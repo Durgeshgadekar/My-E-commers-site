@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
-import ProductItem from './productItem';
+import ProductItem from './ProductItem';
 
 const ProductGrid = styled.div`
   display: grid;

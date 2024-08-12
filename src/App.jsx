@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Navbar from './navbar';
-import SearchBar from './searchbar';
-import ProductList from './productlist';
+import Navbar from './Navbar';
+import SearchBar from './SearchBar';
+import ProductList from './ProductList';
 import './App.css';
 
 
