@@ -1,0 +1,43 @@
+  body {
+    font-family: 'Arial', sans-serif;
+     margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+  } 
+  .NavbarContainer{ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #333;
+  color:black;
+ } 
+  h4{
+   font-size: 1.5rem;
+  font-weight: bold;
+  font-family: cursive;
+  }
+
+ a{
+  display: flex;
+  gap: 0.5rem;
+  color:black;
+  text-decoration: none;
+ 
+  
+ }
+
+ a:hover {
+  font-weight: bolder;
+ }
+
+.SearchBar{
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: none;
+}
+
+
+
+  
