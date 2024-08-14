@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/my-e-commerce-site.git
+    git clone https://github.com/durgeshgadekar/my-e-commerce-site.git
     cd my-e-commerce-site
     ```
 
@@ -44,16 +44,6 @@ To run this project locally, follow these steps:
     npm install
     ```
 
-3. **Environment Variables**:
-
-    Create a `.env` file in the root directory and add your environment variables:
-
-    ```env
-    PORT=5000
-    MONGO_URI=your_mongodb_connection_string
-    JWT_SECRET=your_jwt_secret_key
-    STRIPE_SECRET_KEY=your_stripe_secret_key
-    ```
 
 4. **Run the Application**:
 
@@ -65,8 +55,7 @@ To run this project locally, follow these steps:
 
 5. **Access the App**:
 
-    Open your browser and go to `http://localhost:3000` to view the application.
-
+wait
 ## Usage
 
 - **Browse Products**: Navigate through different categories or search for specific products.
