@@ -13,7 +13,8 @@ Welcome to My E-Commerce Site! This is a fully functional online store where use
 
 - **Frontend**: React.js,vite, Bootstrap, CSS
 - **Backend**: Node.js,
-- **Deployment**: Deployed onNetlify
+- **Deployment**: Deployed on Vercel
+- 
 
 ## Installation
 
