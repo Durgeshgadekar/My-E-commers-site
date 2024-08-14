@@ -11,12 +11,9 @@ Welcome to My E-Commerce Site! This is a fully functional online store where use
 
 ## Technologies Used
 
-- **Frontend**: React.js, Redux, Bootstrap/Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB/PostgreSQL
-- **Authentication**: JWT (JSON Web Tokens) for secure user authentication
-- **Payment Integration**: Stripe/PayPal for handling payments
-- **Deployment**: Deployed on AWS/Heroku/Netlify
+- **Frontend**: React.js,vite, Bootstrap, CSS
+- **Backend**: Node.js,
+- **Deployment**: Deployed onNetlify
 
 ## Installation
 
@@ -55,7 +52,8 @@ To run this project locally, follow these steps:
 
 5. **Access the App**:
 
-wait
+  https://my-e-commers-site-bkcp.vercel.app/
+  
 ## Usage
 
 - **Browse Products**: Navigate through different categories or search for specific products.
